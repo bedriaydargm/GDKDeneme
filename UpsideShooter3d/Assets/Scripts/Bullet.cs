@@ -18,6 +18,5 @@ public class Bullet : MonoBehaviour
     public void Effect()
     {
         gameObject.SetActive(false);
-        print("calisti");
     }
 }
